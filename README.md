@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, Kevo here </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAB&center=true&vCenter=true&width=900&height=50&lines=Hi%2C+I'm+Kelvin+Mwirigi;Full-stack+Developer+%7C+JavaScript+%7C+Python;Building+EchoSpace+%F0%9F%92%A1;Lover+of+tech%2C+wellness%2C+and+authenticity" />
+</p>
+
 <h3 align="center">Building authentic and impactful web experiences</h3>
 
 <p align="center">
