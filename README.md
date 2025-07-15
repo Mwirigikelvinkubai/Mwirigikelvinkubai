@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Kelvin</h1>
+<h1 align="center">Hi 👋, Kevo here </h1>
 <h3 align="center">Building authentic and impactful web experiences</h3>
 
 <p align="center">
   <a href="https://sites.google.com/view/mwirigikelvin/home" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mwirigikelvin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mwirigikelvinkubai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/mwirikevo" target="_blank"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
+  <a href="https://wa.me/2547XXXXXXXX" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 </p>
 
 ---
@@ -30,5 +32,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mwirigikelvinkubai&show_icons=true&theme=radical" alt="Kelvin's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mwirigikelvinkubai&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Mwirigikelvinkubai&theme=radical" alt="GitHub Streak" />
 </p>
+
+
